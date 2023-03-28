@@ -9,6 +9,7 @@ if (isset($_SESSION["authenticated"]))
         header("Location: index.php");
     }
 }
+#asdfgh
 ?>
 <!doctype html>
 <html lang="en">
